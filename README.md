@@ -1,6 +1,8 @@
 Simple example of how to use native views on Android and iOS:
 
-![Android.png](Android.png) ![iOS.png](iOS.png)
+Android | iOS 
+--- | --- 
+![Android.png](Android.png) | ![iOS.png](iOS.png)
 
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
